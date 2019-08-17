@@ -1,0 +1,32 @@
+body{ background:#f2f4f5;width:100%;height:100%;}
+li{list-style:none;}
+.contain .head{width:100%;height:2rem; background:url(../img/tb.jpg) no-repeat; padding-top:0.25rem;margin:0;}
+.head h2{width:100%;height:.5rem; border-radius:50%; margin:0 auto;}
+.head h2 img{width:.7rem;height:.7rem;margin-top:.14rem;display:block;border-radius:50%;margin:0 auto;}
+.head .user-box{width:.8rem; font-size:0.14rem; color:#fff; margin:0 auto; margin-top:0.3rem;}
+.user-box a{color:#fff;text-align:center;display:block;}
+.head ul{ margin-top:0.2rem;margin:0px;}
+.head ul li{width:50%;height:0.35rem; float:left; color:#fff;}
+.head ul li span{height:0.37rem; line-height:0.37rem; text-align:center; display:block; font-size:0.14rem;}
+.head ul li p{text-align: center;font-size: 0.14rem;height: 0.32rem;line-height: 0.32rem;width: .6rem;color: #fff;background: rgba(0,0,0,.2);margin-left: 0.6rem;border-radius: .08rem;}
+.head ul li p.end{ border:0;}
+.van-button--danger{border:none;margin-top:-1.5rem;}
+.contain .docList{width:100%; margin:0 auto; margin-top:0.1rem;}
+.docList ul{padding:0;margin:0;}
+.docList ul li{ background:#fff;height:0.4rem;}
+.docList ul li b{float:right;width:.18rem;height:.18rem; background:url(../img/nnn.png) no-repeat 0 0; background-size:100%; float:right;margin-right:0.17rem; margin-top:0.14rem;}
+.docList ul .gk-text i{width:0.18rem;height:0.18rem; background:url(../img/a.png) no-repeat 0 0; background-size:100%; float:left; margin-left:.19rem; margin-top:.12rem;}
+.gk-text p{ float:left; font-size:.14rem;margin-left:.19rem; margin-top:.12rem;color:#000;}
+.docList ul .mm-text i{width:.18rem;height:0.21rem; background:url(../img/d.png) no-repeat 0 0; background-size:100%; float:left; margin-left:0.19rem; margin-top:.12rem;}
+.mm-text p{ float:left; font-size:.14rem;margin-left:0.19rem; margin-top:.12rem;color:#000;}
+.docList ul .cg-text i{width:0.18rem;height:0.18rem; background:url(../img/b.png) no-repeat 0 0; background-size:100%; float:left; margin-left:.19rem; margin-top:.12rem;}
+.cg-text p{ float:left; font-size:.14rem;margin-left:.19rem; margin-top:.12rem;color:#000;}
+.docList ul .sc-text i{width:0.18rem;height:0.18rem; background:url(../img/e.png) no-repeat 0 0; background-size:100%; float:left; margin-left:.19rem; margin-top:.12rem;}
+.sc-text p{ float:left; font-size:.14rem;margin-left:.19rem; margin-top:.12rem;color:#000;}
+.docList ul .my_cz{ margin-top:0.1rem;}
+.docList ul .my_cz i{width:0.18rem;height:0.18rem; background:url(../img/c.png) no-repeat 0 0; background-size:100%; float:left; margin-left:.19rem; margin-top:.12rem;}
+.my_cz p{ float:left; font-size:.14rem;margin-left:.19rem; margin-top:.12rem;color:#000;}
+/* .docList ul .zx{ margin-top:0.1rem;}
+.docList ul .zx i{width:0.18rem;height:0.18rem; background:url(../img/zx.png) no-repeat 0 0; background-size:100%; float:left; margin-left:.19rem; margin-top:.12rem;}
+.zx p{ float:left; font-size:.14rem;margin-left:.19rem; margin-top:.12rem;} */
+
